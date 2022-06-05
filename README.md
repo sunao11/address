@@ -6,7 +6,7 @@ setup [Deno](https://deno.land/)
 
 ```
 $ mkdir data
-$ deno run -A https://code4fukui.github.io/address-japan/downloadAll.js
+$ deno run -A https://.github.io/address/downloadAll.js
 ```
 
 ## data source
